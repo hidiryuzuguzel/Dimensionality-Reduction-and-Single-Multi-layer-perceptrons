@@ -1,4 +1,4 @@
-% HW3: Dimension reduction and single/multi layer perceptrons
+% Dimension reduction and single/multi layer perceptrons
 % Author: Hidir Yuzuguzel
 clear all;clc;
 
